@@ -1,24 +1,24 @@
-# README
+# Rails Task Manager  
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> The goal of this challenge is to build a To Do Manager with the basic CRUD features
 
-Things you may want to cover:
 
-* Ruby version
+## Table of Contents
+* [General Info](#general-information)
+* [Technologies Used](#technologies-used)
 
-* System dependencies
 
-* Configuration
+## General Information
+The app lets the user perform the following functions- 
 
-* Database creation
+1. As a user, I can list tasks
+2. As a user, I can view the details of a task
+3. As a user, I can add a new task
+4. As a user, I can edit a task (mark as completed / update title & details)
+5. As a user, I can remove a task
 
-* Database initialization
 
-* How to run the test suite
+## Technologies Used
+- Ruby on Rails
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
-
-* ...
